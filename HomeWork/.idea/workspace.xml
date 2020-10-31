@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="877c0540-4da1-4ee8-b58e-d9212da1f583" name="Default Changelist" comment="" />
+    <list default="true" id="18f92e76-6185-443b-8925-62c3c62b512f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1jYUkxPNhdHrkGlhglzAszvswYS" />
+  <component name="ProjectId" id="1jeDhANu4Ce9hmkePoJwnY6q9jS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,56 +23,62 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Lesson_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_1.Lesson_1" />
-      <module name="Lesson_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.geekbrains.lesson_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Lesson_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_2" />
+      <module name="Lesson_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson_1" />
+        <item itemvalue="Application.Lesson_2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="877c0540-4da1-4ee8-b58e-d9212da1f583" name="Default Changelist" comment="" />
-      <created>1603980666139</created>
+      <changelist id="18f92e76-6185-443b-8925-62c3c62b512f" name="Default Changelist" comment="" />
+      <created>1604155782660</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603980666139</updated>
+      <updated>1604155782660</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603982258896">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1604171600165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="376" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603982258896" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1603989058624">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1604171600165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603989058624" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1603989058624">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1604171600165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603989058624" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1603989058623">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1604171600165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603989058623" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1603989058624">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1604171600165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603989058624" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1604171600165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1604171600165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1604171600165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604171600165" />
   </component>
 </project>
